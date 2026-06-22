@@ -1,4 +1,4 @@
-# HPC Performance Workshop
+# HPC Python Performance Workshop
 
 This repository contains the slides and the code examples for the workshop on improving Python performance.
 
